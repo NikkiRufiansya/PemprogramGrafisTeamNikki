@@ -21,7 +21,7 @@ import javax.media.opengl.glu.GLU;
 public class ProjectUas implements GLEventListener {
 
     public static void main(String[] args) {
-        Frame frame = new Frame("Simple JOGL Application");
+        Frame frame = new Frame("Coba testing");
         GLCanvas canvas = new GLCanvas();
 
         canvas.addGLEventListener(new ProjectUas());
