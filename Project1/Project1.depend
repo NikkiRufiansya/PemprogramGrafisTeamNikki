@@ -3,8 +3,10 @@
 	"windows.h"
 	<gl\glut.h>
 
-1426324528 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
-	"freeglut_std.h"
+976641772 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
 
 1426324528 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_std.h
 	<windows.h>
@@ -226,4 +228,8 @@
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
 	<stddef.h>
 	<GL/gl.h>
+
+1531120009 source:c:\users\nikki\documents\pemprogramgrafisteamnikki\project1\main.cpp
+	"windows.h"
+	<gl\glut.h>
 

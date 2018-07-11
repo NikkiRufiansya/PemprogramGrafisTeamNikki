@@ -21,7 +21,7 @@ public class ProjectUas implements GLEventListener, MouseListener, MouseMotionLi
         Frame frame = new Frame("Project UAS");
         GLCanvas canvas = new GLCanvas();
 
-        canvas.addGLEventListener(new Pertemuan4());
+        canvas.addGLEventListener(new ProjectUas());
         frame.add(canvas);
         frame.setSize(640, 480);
         final Animator animator = new Animator(canvas);
@@ -117,7 +117,7 @@ public class ProjectUas implements GLEventListener, MouseListener, MouseMotionLi
         // Objek Bola         
         gl.glTranslatef(1.0f,1.0f,1.0f);         
         gl.glPushMatrix();         
-        Obj.Bola(gl); // Pada fungsi yang sudah dibuat pada pembahasan sebelumnya         
+        Objek.Bola(gl); // Pada fungsi yang sudah dibuat pada pembahasan sebelumnya         
         gl.glPopMatrix();                  
         
        
