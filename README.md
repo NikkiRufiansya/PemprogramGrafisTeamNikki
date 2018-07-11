@@ -5,4 +5,4 @@ Kelompok Nikki Rufiansya 151-111-035
          Diki 151-111-005
 
 
-Catatan = semua berfokus pengerjaan pada folder 'project1' untuk folder yang lain tinggalkan dulu
+Catatan = semua berfokus pengerjaan pada folder 'coba' untuk folder yang lain tinggalkan dulu
