@@ -74,6 +74,7 @@ public class Coba implements GLEventListener {
         // Setup the drawing area and shading mode
         gl.glClearColor(0.0f, 0.0f, 0.0f, 0.0f);
         gl.glShadeModel(GL.GL_SMOOTH); // try setting this to GL_FLAT and see what happens.
+        gl.glEnable(GL.GL_DEPTH_TEST);
     }
 
     public void reshape(GLAutoDrawable drawable, int x, int y, int width, int height) {
